@@ -4,5 +4,5 @@
 /**
  * 
  */
-module lettscritto {
+module LettScrittori {
 }
